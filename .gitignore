@@ -1,0 +1,8 @@
+*.bak
+*.mdf
+*.ldf
+*.db
+*.sqlite
+*.sqlite3
+.vscode/
+.idea/
